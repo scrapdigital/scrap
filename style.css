@@ -1,0 +1,16 @@
+#banner{
+        background-color: rgba(0,0,0,0.75);
+        margin-top: 10px;
+}
+
+#texto_banner{
+    color: white; 
+    text-align: center; 
+    font-weight: bold;
+}
+
+#botao{
+    position: absolute; 
+    left: 65%; 
+    background-color: #000000;
+}
